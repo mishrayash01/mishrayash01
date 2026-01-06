@@ -1,4 +1,4 @@
-# 💫 About Me:
+#                                                                         💫 Yash Mishra 
 "I am an Engineering Undergraduate and Product-First Founder obsessed with solving real-world problems through technology. Currently, I am building a B2B SaaS solution designed to digitize India's Tier-2 retail ecosystem, handling the full lifecycle from user research to full-stack deployment.<br><br>Unlike typical students, I don’t just write code; I build systems. I blend technical proficiency (DSA, Web Development, AI/Low-Code) with a strategic mindset to turn raw ideas into functional, scalable products with Zero-to-One execution.<br><br>Beyond the screen, I serve as the Captain of a championship-winning Cricket Team. This experience has instilled in me a deep sense of resilience, high-pressure decision-making, and the ability to lead diverse teams through ambiguity. I am eager to connect with investors and engineering leaders who value high-impact problem solving and a relentless bias for action
 
 
